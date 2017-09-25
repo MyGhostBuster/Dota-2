@@ -4,7 +4,7 @@
 В рамках курса "Введение в машинное обучение" от ВШЭ
 
 ### Постановка от курса
-  "final-statement.ipynb"
+    "final-statement.ipynb"
 
 ### Решение
     "dota2.ipynb"
